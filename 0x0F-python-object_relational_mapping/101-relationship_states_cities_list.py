@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-""" lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa
+""" 
+lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa
 """
 import sys
 from relationship_state import Base, State
